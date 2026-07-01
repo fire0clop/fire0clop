@@ -90,3 +90,5 @@ Goal tracking with health analytics and **Anthropic Claude** insights in ru/en/e
 </p>
 
 <p align="center"><sub>◈ &nbsp; Built end to end — Swift on the surface, FastAPI underneath, aurora on top. &nbsp; ◈</sub></p>
+
+<!-- profile -->
