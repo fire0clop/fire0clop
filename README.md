@@ -1,3 +1,4 @@
+# Egor Fomenko — iOS & Backend Engineer
 <p align="center">
   <img src="assets/hero.svg" alt="Egor Fomenko — iOS & Backend Engineer" width="100%">
 </p>
@@ -90,3 +91,5 @@ Goal tracking with health analytics and **Anthropic Claude** insights in ru/en/e
 </p>
 
 <p align="center"><sub>◈ &nbsp; Built end to end — Swift on the surface, FastAPI underneath, aurora on top. &nbsp; ◈</sub></p>
+
+<!-- profile -->
