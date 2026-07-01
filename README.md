@@ -81,6 +81,10 @@ Goal tracking with health analytics and **Anthropic Claude** insights in ru/en/e
 <h2 align="center">✦&nbsp;&nbsp;Activity&nbsp;&nbsp;✦</h2>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/fire0clop/fire0clop/output/github-snake-dark.svg" alt="Contribution snake" width="100%">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fire0clop&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=a855f7&icon_color=22d3ee&text_color=9fb3d1&bg_color=0b0b14" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fire0clop&layout=compact&hide_border=true&langs_count=8&title_color=a855f7&text_color=9fb3d1&bg_color=0b0b14" height="160" />
 </p>
