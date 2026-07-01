@@ -1,3 +1,4 @@
+# Egor Fomenko — iOS & Backend Engineer
 <p align="center">
   <img src="assets/hero.svg" alt="Egor Fomenko — iOS & Backend Engineer" width="100%">
 </p>
