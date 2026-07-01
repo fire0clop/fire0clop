@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/metrics.svg" width="100%" alt="6 products · 164 commits · 36 releases · iOS & macOS">
+</p>
+
+<p align="center">
   <img src="assets/divider.svg" width="82%" alt="">
 </p>
 
@@ -32,6 +36,12 @@
 <a href="https://github.com/fire0clop/klio"><img src="assets/klio.svg" alt="Klio — AI goal-tracking diary with Claude insights" width="100%"></a>
 <a href="https://github.com/fire0clop/medoed"><img src="assets/medoed.svg" alt="Medoed — diabetes companion" width="100%"></a>
 <a href="https://github.com/fire0clop/activity"><img src="assets/activity.svg" alt="Activity — location-based meetups & realtime chat" width="100%"></a>
+
+<h3 align="center">✦&nbsp;&nbsp;SHIPPING TIMELINE&nbsp;&nbsp;✦</h3>
+
+<p align="center">
+  <img src="assets/timeline.svg" width="100%" alt="Project timeline across 2026 — six overlapping products">
+</p>
 
 <h3 align="center">✦&nbsp;&nbsp;TECH ARSENAL&nbsp;&nbsp;✦</h3>
 
@@ -60,16 +70,14 @@
   <img src="https://img.shields.io/badge/Anthropic_Claude-D4A27F?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="assets/langs.svg" width="82%" alt="Languages: Swift 51%, Python 37%, other 12%">
+</p>
+
 <h3 align="center">✦&nbsp;&nbsp;ACTIVITY&nbsp;&nbsp;✦</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fire0clop/fire0clop/output/github-snake-dark.svg" alt="Contribution snake" width="100%">
 </p>
 
-<p align="center"><sub>6 public repositories · Swift + Python · shipped end to end</sub></p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="82%" alt="">
-</p>
-
-<p align="center"><sub>◈ &nbsp; Built end to end — Swift on the surface, FastAPI underneath, aurora on top. &nbsp; ◈</sub></p>
+<p align="center"><sub>◈ &nbsp; Built end to end — Swift on the surface, FastAPI underneath. &nbsp; ◈</sub></p>
