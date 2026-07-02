@@ -27,6 +27,8 @@ I'm a **solo full-stack mobile engineer** — I take a product from an empty rep
 
 Across 2026 I shipped **six apps in very different domains** — real-time messaging with 1:1 WebRTC calls, a NetworkExtension VPN, a server-authoritative multiplayer game, and AI-assisted health and habit apps. Different problems, same discipline: own the whole stack, keep it fast, make it feel native.
 
+Beyond mobile, I write **business-process automation** in Python — email/ticketing bots, ETL and data pipelines — and build **full-stack web apps** (Angular · Node/Express · .NET · PostgreSQL) for clients, from spec to a deployed server.
+
 <h3 align="center">✦&nbsp;&nbsp;WHAT I BUILD&nbsp;&nbsp;✦</h3>
 
 | Layer | What that means in my projects |
@@ -74,6 +76,14 @@ Across 2026 I shipped **six apps in very different domains** — real-time messa
 - **Klio:** a goal taxonomy with streak scheduling and **Anthropic Claude** driving guided goal creation and multilingual (ru/en/es) daily insight cards
 - **Medoed:** an insulin **bolus calculator** (ISF/IC ratios) over a carb-counting dish library and meal diary, with Sign in with Apple + Google
 - **Activity:** a **PostGIS** proximity feed with cursor pagination, join/waitlist logic, WebSocket group chat and APNs + FCM push
+
+<h3 align="center">✦&nbsp;&nbsp;AUTOMATION &amp; WEB&nbsp;&nbsp;✦</h3>
+
+<p align="center"><sub>Beyond mobile — business automation and full-stack web, from spec to production.</sub></p>
+
+<a href="https://github.com/fire0clop/mail-ops-bot"><img src="assets/mail-ops-bot.svg" alt="Mail-Ops Bot — email → ticket → Telegram support-desk automation" width="100%"></a>
+
+<p align="center"><sub>Also full-stack web for clients — Angular · Node/Express · .NET · PostgreSQL — and Python data pipelines (kept in private repos; happy to walk through them).</sub></p>
 
 <h3 align="center">✦&nbsp;&nbsp;TECH ARSENAL&nbsp;&nbsp;✦</h3>
 

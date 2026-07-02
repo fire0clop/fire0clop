@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" fill="none" role="img" aria-label="Mail-Ops Bot — email to ticket to Telegram automation">
+<defs>
+ <linearGradient id="mvig" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1210"/><stop offset="1" stop-color="#060a09"/></linearGradient>
+ <linearGradient id="macc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4ade80"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+ <pattern id="mgrid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#1e3a32" stroke-width="0.6" opacity="0.5"/></pattern>
+ <style>
+  .mono{font-family:ui-monospace,'SF Mono','JetBrains Mono',Menlo,monospace;}
+  @keyframes dash{to{stroke-dashoffset:-24}}
+  @keyframes cur{0%,49%{opacity:1}50%,100%{opacity:0}}
+  @keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+  .flow{stroke-dasharray:6 6;animation:dash 1s linear infinite}
+  .cur{animation:cur 1.05s step-end infinite}
+  .pl{animation:pulse 2.6s ease-in-out infinite}
+ </style>
+</defs>
+<rect width="1200" height="240" rx="20" fill="url(#mvig)"/>
+<rect width="1200" height="240" rx="20" fill="url(#mgrid)"/>
+<g stroke="#2f6f57" stroke-width="1.4" opacity="0.8"><path d="M26 40 L26 24 L42 24"/><path d="M1174 40 L1174 24 L1158 24"/><path d="M26 200 L26 216 L42 216"/><path d="M1174 200 L1174 216 L1158 216"/></g>
+
+<!-- wordmark (terminal) -->
+<g transform="translate(70 108)">
+ <text class="mono" x="0" y="0" font-size="26" font-weight="700" fill="#4ade80">$</text>
+ <text class="mono" x="30" y="0" font-size="40" font-weight="700" fill="#eafff4">mail-ops<tspan fill="url(#macc)">-bot</tspan></text>
+ <rect class="cur" x="392" y="-26" width="12" height="30" fill="#4ade80"/>
+ <rect x="3" y="16" width="300" height="2" rx="1" fill="url(#macc)" opacity="0.8"/>
+ <text class="mono" x="3" y="44" font-size="15" letter-spacing="0.5" fill="#8fb7ab">Email → ticket → Telegram · SLA-aware support-desk automation</text>
+ <g transform="translate(3 66)" fill="none">
+  <g><rect x="0" y="-15" width="72" height="24" rx="12" fill="#0e1a17" stroke="url(#macc)" stroke-opacity="0.6"/><text class="mono" x="36" y="1" font-size="12" text-anchor="middle" fill="#cbeadf">Python</text></g>
+  <g transform="translate(84 0)"><rect x="0" y="-15" width="92" height="24" rx="12" fill="#0e1a17" stroke="url(#macc)" stroke-opacity="0.6"/><text class="mono" x="46" y="1" font-size="12" text-anchor="middle" fill="#cbeadf">IMAP IDLE</text></g>
+  <g transform="translate(188 0)"><rect x="0" y="-15" width="86" height="24" rx="12" fill="#0e1a17" stroke="url(#macc)" stroke-opacity="0.6"/><text class="mono" x="43" y="1" font-size="12" text-anchor="middle" fill="#cbeadf">Telegram</text></g>
+  <g transform="translate(286 0)"><rect x="0" y="-15" width="92" height="24" rx="12" fill="#0e1a17" stroke="url(#macc)" stroke-opacity="0.6"/><text class="mono" x="46" y="1" font-size="12" text-anchor="middle" fill="#cbeadf">matplotlib</text></g>
+ </g>
+</g>
+
+<!-- flow motif: mailbox -> ticket -> telegram -->
+<g transform="translate(858 96)">
+ <!-- connecting dashed flow -->
+ <line class="flow" x1="60" y1="24" x2="112" y2="24" stroke="#4ade80" stroke-width="2"/>
+ <line class="flow" x1="172" y1="24" x2="224" y2="24" stroke="#22d3ee" stroke-width="2"/>
+ <!-- envelope -->
+ <g class="pl"><rect x="6" y="6" width="54" height="38" rx="7" fill="#0e1a17" stroke="#4ade80" stroke-width="1.8"/><path d="M9 12 L33 28 L57 12" fill="none" stroke="#4ade80" stroke-width="1.8"/></g>
+ <!-- ticket card -->
+ <g transform="translate(112 0)" class="pl" style="animation-delay:.6s"><rect x="0" y="4" width="60" height="42" rx="7" fill="#0e1a17" stroke="#8ee6c0" stroke-width="1.8"/><circle cx="0" cy="25" r="4" fill="#060a09" stroke="#8ee6c0" stroke-width="1.5"/><circle cx="60" cy="25" r="4" fill="#060a09" stroke="#8ee6c0" stroke-width="1.5"/><line x1="14" y1="18" x2="46" y2="18" stroke="#8ee6c0" stroke-width="2"/><line x1="14" y1="27" x2="40" y2="27" stroke="#8ee6c0" stroke-width="2" opacity="0.7"/><line x1="14" y1="36" x2="44" y2="36" stroke="#8ee6c0" stroke-width="2" opacity="0.5"/></g>
+ <!-- telegram plane -->
+ <g transform="translate(224 2)" class="pl" style="animation-delay:1.2s"><circle cx="24" cy="24" r="26" fill="#0e1a17" stroke="#22d3ee" stroke-width="1.8"/><path d="M13 25 L37 15 L30 37 L26 29 Z" fill="#22d3ee"/><path d="M26 29 L37 15" stroke="#0e1a17" stroke-width="1.2"/></g>
+</g>
+</svg>
