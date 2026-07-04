@@ -46,6 +46,7 @@ Beyond mobile, I write **business-process automation** in Python — email/ticke
 <a href="https://github.com/fire0clop/joker"><img src="assets/joker.svg" alt="Joker — server-authoritative multiplayer card game" width="100%"></a>
 <a href="https://github.com/fire0clop/top-vpn"><img src="assets/top-vpn.svg" alt="Top-VPN — geo split-tunnel VPN for iOS & macOS" width="100%"></a>
 <a href="https://github.com/fire0clop/klio"><img src="assets/klio.svg" alt="Klio — AI goal-tracking diary with Claude insights" width="100%"></a>
+<p align="center"><a href="https://apps.apple.com/us/app/klio/id6771368116"><img src="https://img.shields.io/badge/Klio_·_Live_on_the_App_Store-0b0b14?style=for-the-badge&logo=apple&logoColor=e5e7eb" alt="Klio on the App Store"></a></p>
 <a href="https://github.com/fire0clop/medoed"><img src="assets/medoed.svg" alt="Medoed — diabetes companion" width="100%"></a>
 <a href="https://github.com/fire0clop/activity"><img src="assets/activity.svg" alt="Activity — location-based meetups & realtime chat" width="100%"></a>
 
@@ -73,7 +74,7 @@ Beyond mobile, I write **business-process automation** in Python — email/ticke
 - **ELO** ranking across six leagues, a zero-sum chip economy with a transaction ledger, Celery timers and anti-collusion logging
 
 **[Klio](https://github.com/fire0clop/klio) · [Medoed](https://github.com/fire0clop/medoed) · [Activity](https://github.com/fire0clop/activity) — product surface**
-- **Klio:** a goal taxonomy with streak scheduling and **Anthropic Claude** driving guided goal creation and multilingual (ru/en/es) daily insight cards
+- **Klio:** a goal taxonomy with streak scheduling and **Anthropic Claude** driving guided goal creation and multilingual (ru/en/es) daily insight cards — **[live on the App Store](https://apps.apple.com/us/app/klio/id6771368116)** for iPhone, iPad and Mac
 - **Medoed:** an insulin **bolus calculator** (ISF/IC ratios) over a carb-counting dish library and meal diary, with Sign in with Apple + Google
 - **Activity:** a **PostGIS** proximity feed with cursor pagination, join/waitlist logic, WebSocket group chat and APNs + FCM push
 
