@@ -1,0 +1,21 @@
+{
+  "owner": "fire0clop",
+  "exclude": [
+    "fire0clop",
+    "klio-legal",
+    "klio-privacy",
+    "privacy-policy",
+    "medoed-privacy",
+    "jefferson-legal"
+  ],
+  "products": [
+    "siberia",
+    "joker",
+    "top-vpn",
+    "klio",
+    "medoed",
+    "activity"
+  ],
+  "platforms": "iOS · macOS",
+  "max_languages": 3
+}
