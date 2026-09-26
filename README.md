@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/metrics.svg" width="100%" alt="6 products · 305 commits · 37 releases · iOS & macOS">
+  <img src="assets/metrics.svg" width="100%" alt="6 products · 308 commits · 37 releases · iOS & macOS">
 </p>
 
 <p align="center"><sub>Live numbers — regenerated daily from the GitHub API.</sub></p>
