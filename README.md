@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/metrics.svg" width="100%" alt="6 products · 298 commits · 31 releases · iOS & macOS">
+  <img src="assets/metrics.svg" width="100%" alt="6 products · 300 commits · 31 releases · iOS & macOS">
 </p>
 
 <p align="center"><sub>Live numbers — regenerated daily from the GitHub API.</sub></p>
@@ -116,7 +116,7 @@ Beyond mobile, I write **business-process automation** in Python — email/ticke
 </p>
 
 <p align="center">
-  <img src="assets/langs.svg" width="82%" alt="Languages: Swift 44%, Python 44%, Other 12%">
+  <img src="assets/langs.svg" width="82%" alt="Languages: Python 44%, Swift 43%, Other 13%">
 </p>
 
 <h3 align="center">✦&nbsp;&nbsp;LET'S TALK&nbsp;&nbsp;✦</h3>
